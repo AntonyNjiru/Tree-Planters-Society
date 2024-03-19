@@ -3,35 +3,20 @@
     margin: 0;
 }
 
+header {
+    padding: 30px;
+    background-image: linear-gradient(to right, #08f314, #000000, #918308);
+    color: white;
+}
+
 body{
     background-color: green;
     font-family: sans-serif;
 }
 
-.sidebar{
-    position: fixed;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    background-color: rgb(26, 63, 4);
-    padding: 24px;
-    width: 150px;
-}
-
-.sidebar .logo img{
-    width: 125px;
-    padding: auto;
-}
-
-.sidebar .navigation ul{
-list-style: none;
-margin-top: 20px;
-}
-
-.sidebar .navigation ul li a{
-color: white;
-text-decoration: none;
-font-weight: bold;
-font-size: 13px;
+.navbar {
+    background-color: #030e01;
+    color: rgb(255, 255, 255);
+    padding-top: 0%;
 }
 
