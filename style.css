@@ -13,18 +13,6 @@ h2 {
     color: #ffffff;
 }
 
-p{
-    color: rgb(0, 0, 0);
-    background-color: white;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: larger;
-    font-weight: 300;
-}
-body{
-    background-color: green;
-    font-family: sans-serif;
-}
-
 .navbar {
     background-color: #030e01;
     color: rgb(255, 255, 255);
@@ -37,10 +25,7 @@ body{
     color: #000000;
 }
 
-footer {
-    background-image:linear-gradient(#ffffff,rgb(33, 206, 10));
-    padding: 20px 0;
-}
+
 
 
 
